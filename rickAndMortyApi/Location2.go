@@ -1,3 +1,4 @@
+// Handle The Locations
 package rickAndMortyApi
 
 import (

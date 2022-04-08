@@ -1,3 +1,4 @@
+// Handle The Characters
 package rickAndMortyApi
 
 import (
