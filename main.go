@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/wassimennaboulssi/RickAndMortyApi/rickAndMortyApi"
+	"github.com/wassimennaboulssi/rickAndMorty/rickAndMortyApi"
 )
 
 func main() {
